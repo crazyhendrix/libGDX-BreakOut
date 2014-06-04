@@ -2,6 +2,8 @@ A Lousy BreakOut Clone
 ----------------------
 My first game, programed with Java and the wonderful library: LibGDX. Took me a week to work out the game logic and countless nights of googling. Yup, I am that newbish and lousy with programming logic.
 
+Here's the desktop playable version: [Breakout](Breakout-Desktop.jar).
+
 ![Break Out](breakout-yay.png "Break Out")
 
 ### Controls
